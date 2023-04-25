@@ -1,0 +1,25 @@
+# suman.yaml
+
+# The config file for Keyword Driven Testing Framework
+
+url : 'https://www.flipkart.com/'
+
+close_button : '/html/body/div[2]/div/div/button'
+
+mobile : '//*[@id="container"]/div/div[2]/div/div/div[2]/a/div[2]'
+
+brand : '//*[@id="container"]/div/div[3]/div[2]/div[1]/div/section[3]/div[2]/div[1]/div[7]/div/label/div[2]'
+
+internal_storage : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[8]/div/div'
+
+internal_storage_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[8]/div[2]/div/div[2]/div/label/div[2]'
+
+screen_size : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[10]/div/div'
+
+screen_size_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[10]/div[2]/div/div[4]/div/label/div[2]'
+
+network_type : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[17]/div/div'
+
+network_type_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[17]/div[2]/div/div[5]/div/label/div[2]'
+
+iphone_14 : '//*[@id="container"]/div/div[3]/div/div[2]/div[2]/div/div/div/a/div[2]/div[1]/div[1]'

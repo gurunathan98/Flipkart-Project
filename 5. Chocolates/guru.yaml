@@ -1,0 +1,29 @@
+# suman.yaml
+
+# The config file for KDTF
+
+url : 'https://www.flipkart.com/'
+
+close_button : '/html/body/div[2]/div/div/button'
+
+mobiles : '//*[@id="container"]/div/div[2]/div/div/div[2]/a/div[2]'
+
+sports_books_and_more : '//*[@id="container"]/div/div[2]/div/div/span[7]'
+
+chocolates : '//*[@id="container"]/div/div[2]/div/div/div/div[2]/a[4]'
+
+brand : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div/div/section[4]/div/div'
+
+brand_selection : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div/div/section[4]/div[2]/div[1]/div[2]/div/label/div[2]'
+
+customer_ratings : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[5]/div[2]/div/div[1]/div/label/div[2]'
+
+discount : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[7]/div/div'
+
+discount_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[7]/div[2]/div/div[5]/div/label/div[2]'
+
+product_form : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[9]/div/div'
+
+product_form_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[9]/div[2]/div/div[1]/div/label/div[2]'
+
+bounty : '//*[@id="container"]/div/div[3]/div/div[2]/div[2]/div/div[1]/div/a[2]'

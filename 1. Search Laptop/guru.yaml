@@ -1,0 +1,27 @@
+# suman.yaml
+
+# The config file for KDTF
+
+url : 'https://www.flipkart.com/'
+
+close_button : '/html/body/div[2]/div/div/button'
+
+search_box : '//*[@id="container"]/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input'
+
+search_box_input : 'apple laptop'
+
+screen_size : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div[1]/div/section[7]/div/div'
+
+screen_size_selection : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div[1]/div/section[7]/div[2]/div/div[2]/div/label/div[2]'
+
+weight : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[18]/div[1]/div'
+
+weight_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[18]/div[2]/div/div/div/label/div[2]'
+
+ssd_capacity : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[20]/div[1]/div'
+
+ssd_capacity_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[20]/div[2]/div/div/div/label/div[2]'
+
+price_range : '//*[@id="container"]/div/div[3]/div/div[2]/div[1]/div/div/div[2]/div[3]'
+
+apple_macbook_pro : '//*[@id="container"]/div/div[3]/div/div[2]/div[2]/div/div/div/a/div[2]/div[1]/div[1]'

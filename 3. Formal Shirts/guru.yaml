@@ -1,0 +1,35 @@
+# suman.yaml
+
+# The config file for KDTF
+
+url : 'https://www.flipkart.com/'
+
+close_button : '/html/body/div[2]/div/div/button'
+
+mobiles : '//*[@id="container"]/div/div[2]/div/div/div[2]/a/div[2]'
+
+men : '//*[@id="container"]/div/div[2]/div/div/span[3]' 
+
+formal_shirts : '//*[@id="container"]/div/div[2]/div/div/div/div[2]/a[4]'
+
+gender : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div/div/section[2]/div/div'
+
+gender_selection : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div/div/section[2]/div[2]/div/div/div/label/div[1]'
+
+size : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[5]/div/div'
+
+size_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[5]/div[2]/div/div[1]/div/label/div[1]'
+
+brand : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[9]/div/div'
+
+brand_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[9]/div[2]/div[1]/div[2]/div/label/div[1]'
+
+sleeves : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[10]/div/div'
+
+sleeves_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[10]/div[2]/div/div[1]/div/label/div[1]'
+
+theme : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[18]/div/div'
+
+theme_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[18]/div[2]/div[1]/div[2]/div/label/div[1]'
+
+men_formal_shirt : '//*[@id="container"]/div/div[3]/div/div[2]/div[2]/div/div[1]/div/div/a[1]'

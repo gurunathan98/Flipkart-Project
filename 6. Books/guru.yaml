@@ -1,0 +1,29 @@
+# suman.yaml
+
+# The config file for KDTF
+
+url : 'https://www.flipkart.com/'
+
+close_button : '/html/body/div[2]/div/div/button'
+
+mobiles : '//*[@id="container"]/div/div[2]/div/div/div[2]/a/div[2]'
+
+sports_books_and_more : '//*[@id="container"]/div/div[2]/div/div/span[7]'
+
+self_help_books : '//*[@id="container"]/div/div[2]/div/div/div/div[3]/a[7]'
+
+customer_ratings : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div[2]/div/div/section[5]/div[2]/div/div[1]/div/label/div[2]'
+
+language : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[7]/div/div'
+
+language_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[7]/div[2]/div/div[13]/div/label/div[2]'
+
+discount : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[8]/div/div'
+
+discount_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[8]/div[2]/div/div[5]/div/label/div[2]'
+
+binding : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[11]/div/div'
+
+binding_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div/div/section[11]/div[2]/div/div[2]/div/label/div[2]'
+
+selfhelp_book : '//*[@id="container"]/div/div[3]/div/div[2]/div[2]/div/div[1]/div/a[2]'

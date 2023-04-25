@@ -1,0 +1,29 @@
+# suman.yaml
+
+# The config file for KDTF
+
+url : 'https://www.flipkart.com/'
+
+close_button : '/html/body/div[2]/div/div/button'
+
+mobiles : '//*[@id="container"]/div/div[2]/div/div/div[2]/a/div[2]'
+
+tv_and_appliances : '//*[@id="container"]/div/div[2]/div/div/span[2]' 
+
+television : '//*[@id="container"]/div/div[2]/div/div/div/div[1]/a[1]'
+
+sony_tv : '//*[@id="container"]/div/footer/div/div[1]/div/div/div/table/tbody/tr[1]/td[3]/a'
+
+screen_size : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div[1]/div/section[5]/div/div'
+
+screen_size_selection : '//*[@id="container"]/div/div[3]/div[1]/div[1]/div/div[1]/div/section[5]/div[2]/div/div[2]/div/label/div[2]'
+
+screen_type : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[8]/div/div'
+
+screen_type_selection : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[8]/div[2]/div/div[2]/div/label/div[2]'
+
+customer_rating : '//*[@id="container"]/div/div[3]/div/div[1]/div/div[1]/div/section[14]/div[2]/div/div[1]/div/label/div[2]'
+
+price_range : '//*[@id="container"]/div/div[3]/div/div[2]/div[1]/div/div/div[3]/div[3]'
+
+sony_bravia : '//*[@id="container"]/div/div[3]/div/div[2]/div[2]/div/div/div/a/div[2]/div[1]/div[1]'
